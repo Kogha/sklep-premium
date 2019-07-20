@@ -2,6 +2,7 @@
 /* Autor: Maciej "Kogha" Błoński <kogha@onet.pl>
 Automatyczny sklep premium bez możliwości dokonania płatności(trzeba taką funkcję dopisać)
 plik: sklep.php
+GitHub: https://github.com/Kogha/sklep-premium
 */
 
 include 'system-logowania.php';
