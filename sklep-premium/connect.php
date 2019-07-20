@@ -2,6 +2,7 @@
 /* Autor: Maciej "Kogha" Błoński <kogha@onet.pl>
 Automatyczny sklep premium bez możliwości dokonania płatności(trzeba taką funkcję dopisać)
 plik: connect.php
+GitHub: https://github.com/Kogha/sklep-premium
 */
 
     $db_host = "serwer1940592.home.pl"; //host
